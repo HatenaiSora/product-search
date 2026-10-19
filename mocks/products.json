@@ -1,0 +1,20 @@
+[
+  { "id": 1, "name": "Laptop Pro 14", "description": "Lekki laptop z ekranem 14 cali i baterią na cały dzień pracy.", "category": "Komputery", "price": 6499, "inStock": true },
+  { "id": 2, "name": "Laptop Air 13", "description": "Cienki laptop do pracy biurowej i podróży.", "category": "Komputery", "price": 4299, "inStock": true },
+  { "id": 3, "name": "Plecak na laptopa 15,6\" z wodoodpornym dnem, portem USB i ukrytą kieszenią na dokumenty", "description": "Pojemny plecak miejski z usztywnioną komorą na laptopa.", "category": "Akcesoria", "price": 229, "inStock": true },
+  { "id": 4, "name": "Podstawka pod laptopa", "description": "Aluminiowa podstawka z regulacją wysokości.", "category": "Akcesoria", "price": 149, "inStock": false },
+  { "id": 5, "name": "Lampka biurkowa LED", "description": "Lampka z regulacją barwy światła i jasności.", "category": "Biuro", "price": 189, "inStock": true },
+  { "id": 6, "name": "Klawiatura mechaniczna", "description": "Klawiatura z przełącznikami brązowymi i podświetleniem.", "category": "Peryferia", "price": 399, "inStock": true },
+  { "id": 7, "name": "Mysz bezprzewodowa", "description": "Ergonomiczna mysz z cichymi przyciskami.", "category": "Peryferia", "price": 129, "inStock": true },
+  { "id": 8, "name": "Monitor 27\" 4K", "description": "Monitor IPS z fabryczną kalibracją kolorów.", "category": "Monitory", "price": 1899, "inStock": true },
+  { "id": 9, "name": "Monitor 34\" ultrapanoramiczny z zakrzywioną matrycą, portem USB-C z zasilaniem 90 W i wbudowanym przełącznikiem KVM", "description": "Szeroki monitor do pracy z wieloma oknami.", "category": "Monitory", "price": 3299, "inStock": false },
+  { "id": 10, "name": "Słuchawki z ANC", "description": "Słuchawki nauszne z aktywną redukcją szumów.", "category": "Audio", "price": 899, "inStock": true },
+  { "id": 11, "name": "Ładowarka USB-C 65 W", "description": "Kompaktowa ładowarka GaN z dwoma portami.", "category": "Akcesoria", "price": 159, "inStock": true },
+  { "id": 12, "name": "Kabel HDMI 2.1", "description": "Kabel 2 m obsługujący 4K 120 Hz.", "category": "Akcesoria", "price": 59, "inStock": true },
+  { "id": 13, "name": "Stacja dokująca", "description": "Stacja z dwoma wyjściami wideo i portem Ethernet.", "category": "Akcesoria", "price": 549, "inStock": true },
+  { "id": 14, "name": "Kamera internetowa Full HD", "description": "Kamera z autofokusem i mikrofonem stereo.", "category": "Peryferia", "price": 249, "inStock": true },
+  { "id": 15, "name": "Mikrofon pojemnościowy", "description": "Mikrofon USB do nagrań i wideokonferencji.", "category": "Audio", "price": 459, "inStock": false },
+  { "id": 16, "name": "Biurko z regulacją wysokości", "description": "Elektryczne biurko z pamięcią trzech ustawień.", "category": "Biuro", "price": 1599, "inStock": true },
+  { "id": 17, "name": "Krzesło ergonomiczne", "description": "Krzesło z podparciem lędźwiowym i regulowanymi podłokietnikami.", "category": "Biuro", "price": 1299, "inStock": true },
+  { "id": 18, "name": "Dysk SSD 1 TB", "description": "Zewnętrzny dysk w aluminiowej obudowie.", "category": "Komputery", "price": 379, "inStock": true }
+]
